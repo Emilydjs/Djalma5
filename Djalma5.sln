@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Djalma5", "Djalma5\Djalma5.csproj", "{108F8D7A-4FDB-46F7-A4D6-EDE5E249F88C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{108F8D7A-4FDB-46F7-A4D6-EDE5E249F88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108F8D7A-4FDB-46F7-A4D6-EDE5E249F88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108F8D7A-4FDB-46F7-A4D6-EDE5E249F88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108F8D7A-4FDB-46F7-A4D6-EDE5E249F88C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98442C29-FA00-4206-87B3-0F93154D8584}
+	EndGlobalSection
+EndGlobal
